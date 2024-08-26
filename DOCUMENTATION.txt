@@ -1,0 +1,11 @@
+PEN RUN DOCUMENTATION
+
+1. To expand levels, just duplicate the scenes and arrange the objects according to your wish. If you want to change the path, then in the playarea scene -> uncollapse the object called "Critical Path", and select path. Then in top view of the scene, just change or add anchor points according to your wish. Also make sure to increase the frequency in the script of its sibling called "DecoratorNoLoop" if you want more block along the path.
+
+2. AdMob integrated. Go to the "PreLoad" scene and click on the AdMob gameobject and change the ids according to your wish.
+
+3. To change the BGMusic, there is a BGMusic gameobject in "PreLoad" scene. Just replace the audio in the audiosource component of it. To change other sounds, check the script on the prefab - PenParent, and just replace the audioclips.
+
+4.For more information contact us at nimmidevelopers@gmail.com
+
+Thank you for buying our product. Have a great day!
